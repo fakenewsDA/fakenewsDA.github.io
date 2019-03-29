@@ -1,0 +1,165 @@
+h2 {
+	font-family: 'Karla', sans-serif;
+}
+
+h6 {
+	font-family: 'Karla', sans-serif;
+	color: #fff !important;
+	font-size: 17pt;
+	margin-bottom: 35px;
+}
+
+h4 a{
+	color: #000;
+	
+}
+
+h3{
+	color: #fff;
+}
+
+.container {
+	max-width: 1300px;
+}
+
+.masthead h1 {
+	font-family: font-family: 'Josefin Sans', sans-serif !important;
+}
+
+.navbar-brand {
+	font-size: 1.5rem;
+}
+
+.text-white-50 {
+	color: rgba(255,255,255,.8)!important
+}
+
+.img-eva {
+	margin-top: 25px;
+}
+
+.faknew-nav {
+	font-family: 'Josefin Sans', sans-serif !important;
+	letter-spacing: 0.2rem;
+}
+
+.drop-button {
+	background-color: transparent !important;
+	border: none;
+	webkit-box-shadow: none !important;
+	
+}
+	
+.fontwhite{
+	
+	color: #fff;
+}
+
+.fontwhite p{
+	
+	color: #fff;
+}
+
+
+.text-left{
+	text-align: left;
+	
+	
+}
+
+.panel-group{
+	border: 5px solid #fff;
+	padding: 0;
+	margin: 0;
+	
+}
+
+.panel-body{
+	
+	color: #fff;
+	text-align: left;
+	margin: 5px;
+}
+
+
+	
+.panel-title{
+	background-color: #fff;
+	padding: 10px;
+	margin: 0;
+	
+	
+	
+	
+}
+	
+	
+	
+	.list-group-item{
+		color: #000;
+	}
+	
+	
+	
+	.nebel{
+		
+		font-size: 60px;
+		
+		
+	}
+		.medieen h3{
+			font-weight: bold;
+			font-size: 24px;
+		}
+		
+
+.glyphicon glyphicon-chevron-down{
+	
+	
+	color: #fff;
+}
+	
+	
+#plattformen img{
+	
+	width: auto;
+	height: auto;
+	
+	
+}
+
+.pborder{
+	border: 1px solid #000;
+	padding: 5px;
+	
+}
+
+.blocktextpadding{
+	padding-right: 15px !important;
+	
+}
+
+.blocktextpadding2{
+	padding-left: 15px !important;
+	
+}
+
+
+.fa-chevron-circle-down{
+	font-size: 40px;
+	color: #fff;
+	
+}
+
+
+
+.bg-grey{
+	
+	background-color: #D5D3D3;	
+}
+
+
+.blackie{
+	color: #000;
+	
+}
